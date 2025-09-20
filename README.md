@@ -30,7 +30,7 @@ system.
 1.  Clone the repository:
 
     ``` bash
-    git clone https://github.com/your-username/NotesApp.git
+    git clone https://github.com/anuuhsingh98/NotesApp.git
     cd NotesApp
     ```
 
